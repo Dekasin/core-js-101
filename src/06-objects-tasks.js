@@ -22,11 +22,11 @@
  */
 function Rectangle(/* width, height */width, height) {
  // throw new Error('Not implemented');
-this.width = width;
-this.height = height;
-this.getArea =  () => {
-  return this.height * this.width;
-}
+// this.width = width;
+// this.height = height;
+// this.getArea =  () => {
+//   return this.height * this.width;
+// }
 }
 
 
